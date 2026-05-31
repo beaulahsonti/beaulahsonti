@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Beulahh 👋
 
-<!--
-**beaulahsonti/beaulahsonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year BTech Student
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills:
+- Python
+- Java (Basics)
+- SQL (Learning)
+- Pandas
+- NumPy
+- Power BI
+
+🚀 Projects:
+- Smart Data Dashboard
+- Customer Churn Analysis
+- Inventory Management Analytics (In Progress)
+
+🌱 Currently Learning:
+- SQL
+- Power BI
+- Machine Learning
+
+📫 Connect With Me:
+- GitHub: https://github.com/beaulahsonti
+
+
