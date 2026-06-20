@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://github.com/beaulahsonti">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Beulahh+%F0%9F%91%8B;Final+Year+B.Tech+Student+%F0%9F%8E%93;Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Raw+Data+Into+Real+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Beulahh+%F0%9F%91%8B;Final+Year+B.Tech+Student+%F0%9F%8E%93;Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Raw+Data+Into+Real+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
